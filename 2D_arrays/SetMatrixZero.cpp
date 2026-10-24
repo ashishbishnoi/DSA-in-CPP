@@ -24,7 +24,7 @@ public:
     }
 };  
 // My code But here the problem is the original zero and th ezeros ive set are not uniquely identified
-// so it's leading to an wrong answer.
+// so it's leading to a wrong answer.
 
 
 // TC=O(mn)
